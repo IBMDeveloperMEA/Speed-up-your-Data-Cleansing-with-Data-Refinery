@@ -2,13 +2,13 @@
 
 ## Workshop Resources
 
-- [Login/Sign Up for IBM Cloud:](https://ibm.biz/BdfpGB)
+- [Login/Sign Up for IBM Cloud](https://ibm.biz/BdfpGB)
   
-- [Hands-On Guide:]()
+- [Hands-On Guide]()
 
-- [Slides:]()
+- [Slides]()
 
-- [Workshop Replay:](https://www.crowdcast.io/e/faster-data-cleaning)
+- [Workshop Replay](https://www.crowdcast.io/e/faster-data-cleaning)
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
@@ -199,13 +199,13 @@ We see that we can do things in the Global visualization preferences for Titles,
 
 ## Workshop Resources
 
-- [Login/Sign Up for IBM Cloud:](https://ibm.biz/BdfpGB)
+- [Login/Sign Up for IBM Cloud](https://ibm.biz/BdfpGB)
   
-- [Hands-On Guide:]()
+- [Hands-On Guide]()
 
-- [Slides:]()
+- [Slides]()
 
-- [Workshop Replay:](https://www.crowdcast.io/e/faster-data-cleaning)
+- [Workshop Replay](https://www.crowdcast.io/e/faster-data-cleaning)
 
 ## Reference Links
   
