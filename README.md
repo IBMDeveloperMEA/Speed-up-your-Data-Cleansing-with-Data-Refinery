@@ -4,7 +4,7 @@
 
 - [Login/Sign Up for IBM Cloud](https://ibm.biz/BdfpGB)
   
-- [Hands-On Guide]()
+- [Hands-On Guide](https://developer.ibm.com/learningpaths/cloud-pak-for-data-learning-path/data-visualization-with-data-refinery/)
 
 - [Slides]()
 
@@ -12,15 +12,16 @@
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
-1. [Your title](#Your-title)  
+1. [Tutorial](#Tutorial )  
   
 ## Prerequisites
-  
+- Any prior experience with Data Processing would be advantageous. If you have no prior experience, read this blog as reference: https://towardsdatascience.com/data-analysis-using-excel-885f337c85c
+
 ## **Sign-up/Login to IBM Cloud**
 
-If you are an existing user please [login to IBM Cloud](<PUT TRACK LINK HERE>)
+If you are an existing user please [login to IBM Cloud](https://ibm.biz/BdfpGB)
 
-And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](<PUT TRACK LINK HERE>): <br>
+And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](https://ibm.biz/BdfpGB): <br>
 1- Put your email and password. <br>
 2- You get a verification link with the registered email to verify your account. <br>
 3- Fill the personal information fields. <br>
@@ -29,7 +30,7 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 <img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
 
 
-## Define Problem area - Copied from IBM Developer
+## Define Problem area
 
 Data Refinery is part of IBM Watson and comes with IBM Watson Studio on the public IBM Cloud and IBM Watson Knowledge Catalog running on-premises using IBM Cloud Pak for Data. It’s a self-service data-preparation client for data scientists, data engineers, and business analysts. With it, you can quickly transform large amounts of raw data into quality consumable information that’s ready for analytics. Data Refinery makes it easy to explore, prepare, and deliver data that people across your organization can trust.
 
@@ -38,13 +39,13 @@ Data Refinery is part of IBM Watson and comes with IBM Watson Studio on the publ
   Use the architecture on the IBM Developer - else edit it using the patterns 
   Link for architecture: https://l2fprod.github.io/myarchitecture/ 
 
-## Tutorial - Copied from IBM Developer
+## Tutorial 
 
 ### 1. Load Data
 **Load the german_credit_data.csv data into Data Refinery**
-- Download the german_credit_data.csv file to your local machine. <br/>
+- Download the [german_credit_data.csv](german_credit_data.csv) file to your local machine. <br/>
 
-- From the Project home, click on the Assets tab. Next, either drag and drop the downloaded german_credit_data.csv file to the right-hand side pane where it says Drop files here or browse for files to upload, or click on browse and choose the downloaded german_credit_data.csv file. <br/>
+- From the Project home, click on the Assets tab. Next, either drag and drop the downloaded [german_credit_data.csv](german_credit_data.csv) file to the right-hand side pane where it says Drop files here or browse for files to upload, or click on browse and choose the downloaded [german_credit_data.csv file](german_credit_data.csv). <br/>
 
 ![Upload data](images/upload-data.png)
 
@@ -201,7 +202,7 @@ We see that we can do things in the Global visualization preferences for Titles,
 
 - [Login/Sign Up for IBM Cloud](https://ibm.biz/BdfpGB)
   
-- [Hands-On Guide]()
+- [Hands-On Guide](https://developer.ibm.com/learningpaths/cloud-pak-for-data-learning-path/data-visualization-with-data-refinery/)
 
 - [Slides]()
 
