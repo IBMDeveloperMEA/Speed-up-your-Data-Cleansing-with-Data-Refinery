@@ -33,11 +33,11 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 ## Objective
 
 Data Refinery is part of IBM Watson and comes with IBM Watson Studio on the public IBM Cloud and IBM Watson Knowledge Catalog running on-premises using IBM Cloud Pak for Data. It’s a self-service data-preparation client for data scientists, data engineers, and business analysts. With it, you can quickly transform large amounts of raw data into quality consumable information that’s ready for analytics. Data Refinery makes it easy to explore, prepare, and deliver data that people across your organization can trust.
-
+<!-- 
 ## Architecture 
   
   Use the architecture on the IBM Developer - else edit it using the patterns 
-  Link for architecture: https://l2fprod.github.io/myarchitecture/ 
+  Link for architecture: https://l2fprod.github.io/myarchitecture/  -->
 
 ## Tutorial 
 
@@ -196,7 +196,7 @@ We see that we can do things in the Global visualization preferences for Titles,
 
 ![Visualize set theme and choose preferences](images/dr-vis-choose-theme.png)
 
-## Sample Outputs
+<!-- ## Sample Outputs -->
 
 ## Workshop Resources
 
@@ -208,8 +208,10 @@ We see that we can do things in the Global visualization preferences for Titles,
 
 - [Workshop Replay](https://www.crowdcast.io/e/faster-data-cleaning)
 
-## Reference Links
+<!-- ## Reference Links -->
   
-## Done with the workshop? Here are some things you can try further
+<!-- ## Done with the workshop? Here are some things you can try further -->
 
-## Authors
+## Speakers
+- Mridul Bhandari (https://linktr.ee/mridulrb)
+- Hashim Noor (https://www.linkedin.com/in/hashim-noor/)
