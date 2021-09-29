@@ -6,7 +6,7 @@
   
 - [Hands-On Guide](https://developer.ibm.com/learningpaths/cloud-pak-for-data-learning-path/data-visualization-with-data-refinery/)
 
-- [Slides]()
+- [Slides](https://ibmdevelopermea.github.io/Speed-up-your-Data-Cleansing-with-Data-Refinery/)
 
 - [Workshop Replay](https://www.crowdcast.io/e/faster-data-cleaning)
 
@@ -204,7 +204,7 @@ We see that we can do things in the Global visualization preferences for Titles,
   
 - [Hands-On Guide](https://developer.ibm.com/learningpaths/cloud-pak-for-data-learning-path/data-visualization-with-data-refinery/)
 
-- [Slides]()
+- [Slides](https://ibmdevelopermea.github.io/Speed-up-your-Data-Cleansing-with-Data-Refinery/)
 
 - [Workshop Replay](https://www.crowdcast.io/e/faster-data-cleaning)
 
