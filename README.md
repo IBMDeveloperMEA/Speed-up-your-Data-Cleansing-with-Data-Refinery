@@ -71,7 +71,7 @@ With Data Refinery, we can transform our data by directly entering operations in
 
 - A filter operation syntax will be displayed in the Command line. Clicking on the operation name within the Command line will give hints on the syntax and how to use the command. For instance, to filter for customers who have paid credits up to date, build the expression shown below. To inact the filter, you would Apply the expression.
 
-''' filter(`CreditHistory` == 'credits_paid_to_date') '''
+``` filter(`CreditHistory` == 'credits_paid_to_date') ```
 
 - We can remove this custom filter by clicking on the trash icon on the Custom code step of our data workflow.
 
